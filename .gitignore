@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements
+.venv/
+venv/
+env/
+
+# Conda
+.conda/
+
+# Données
+data/raw/
+data/processed/
+
+# Variables d'environnement
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Modèles entraînés
+*.pkl
+*.joblib
+*.h5
+*.keras
